@@ -1,0 +1,10 @@
+```$help --> this message
+$add $+ --> add 2 or more numbers together!
+$subtract $- --> subtract one number from another!
+$multiply $* --> multiply 2 or more number together!
+$divide $/ --> divide one number by another!
+$guess --> play a guessing game that anyone can join!
+$flip --> flip a coin!
+$roll --> roll a die! (can have as many sides as you want)
+
+Thats all the commands for now!```
